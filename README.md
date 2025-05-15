@@ -1,5 +1,5 @@
 # delta-demo
-this is a project for web 
+this is delta cousre
 # student name 
 sahil khan 
 haider ali
